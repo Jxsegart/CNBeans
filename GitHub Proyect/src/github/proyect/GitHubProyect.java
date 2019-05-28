@@ -15,7 +15,7 @@ public class GitHubProyect {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-    System.out.println("Loco, dese GitHub.")
+    System.out.println("Loco, dese GitHub.");
     }
     
 }
